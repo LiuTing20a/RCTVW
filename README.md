@@ -12,10 +12,8 @@
 Run Demo_RCTVW.
 
 ## Details
+
 For details such as parameter setting, please refer to [<a href="https://ieeexplore.ieee.org/abstract/document/10286118">pdf</a>].
-For details such as parameter setting, please refer to [<a href="https://doi.org/10.1016/j.patcog.2022.109184">pdf</a>].
-
-
 
 ## Citation
 
